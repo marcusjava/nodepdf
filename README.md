@@ -15,7 +15,7 @@
 ## Install
 
 ```sh
-node src/server
+yarn install
 ```
 
 ## Usage
